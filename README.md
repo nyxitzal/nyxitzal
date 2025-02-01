@@ -16,6 +16,7 @@ Curso:  EBAC - Escola Britânica de Artes Criativas e Tecnologia
 ## 💻 Informações adicionais
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaykyez/)
+
 Nascimento: 14/09/2006
 Idade: 18 anos
 País: Brasil
