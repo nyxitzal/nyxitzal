@@ -1,10 +1,21 @@
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaykyez/)
-
 ![nyxitzal GitHub stats](https://github-readme-stats.vercel.app/api?username=nyxitzal&show_icons=true&theme=tokyonight)
 
-## 🚀 Skills 🚀
+## 📚 Estudos
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+Faculdade: UNIFRAN - Universidade de Franca
+ Cientista de Dados | Gradução
+
+Curso:  EBAC - Escola Britânica de Artes Criativas e Tecnologia
+ Desenvolvedor Full Stack Python
+
+## 💻 Tecnologias & Linguagens
+
+`R` `SQL` `Scala/Java` `NumPy` `Dask`  `RStudio` `Matplotlib` `Kafka` `MySQL` `Mongo`
+`HTML5` `JavaScript` `Python` `PostgreSQL` `Django`
+
+## 💻 Informações adicionais
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaykyez/)
+Nascimento: 14/09/2006
+Idade: 18 anos
+País: Brasil
