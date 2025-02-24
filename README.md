@@ -9,6 +9,8 @@
 
 ### Curso:  EBAC - Escola Britânica de Artes Criativas e Tecnologia
  Desenvolvedor Full Stack Python
+ Analista de Dados
+ Engenheiro de CyberSecurity
 
 ## 💻 Tecnologias & Linguagens
 
