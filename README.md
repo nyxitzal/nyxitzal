@@ -4,10 +4,10 @@
 
 ## 📚 Estudos
 
-# Faculdade: UNIFRAN - Universidade de Franca
+### Faculdade: UNIFRAN - Universidade de Franca
  Cientista de Dados | Gradução
 
-# Curso:  EBAC - Escola Britânica de Artes Criativas e Tecnologia
+### Curso:  EBAC - Escola Britânica de Artes Criativas e Tecnologia
  Desenvolvedor Full Stack Python
 
 ## 💻 Tecnologias & Linguagens
