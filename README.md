@@ -15,4 +15,4 @@
 ## 💻 Tecnologias & Linguagens
 
 `R` `SQL` `Scala/Java` `NumPy` `Dask`  `RStudio` `Matplotlib` `Kafka` `MySQL` `Mongo`
-`HTML5` `JavaScript` `Python` `PostgreSQL` `Django`
+`HTML5` `JavaScript` `Python` `PostgreSQL` `Django` `C` `Assembly`
