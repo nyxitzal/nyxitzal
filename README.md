@@ -4,15 +4,10 @@
 
 ## 📚 Estudos
 
-### Faculdade: UNIFRAN - Universidade de Franca
- Cientista de Dados | Gradução
+### Faculdade: UNIASSELVI
+ Engenharia de Software | Gradução
 
 ### Curso:  EBAC - Escola Britânica de Artes Criativas e Tecnologia
- Desenvolvedor Full Stack Python
+ | Desenvolvedor Full Stack Python
  | Analista de Dados
  | Engenheiro de CyberSecurity
-
-## 💻 Tecnologias & Linguagens
-
-`R` `SQL` `Scala/Java` `NumPy` `Dask`  `RStudio` `Matplotlib` `Kafka` `MySQL` `Mongo`
-`HTML5` `JavaScript` `Python` `PostgreSQL` `Django` `C` `Assembly`
